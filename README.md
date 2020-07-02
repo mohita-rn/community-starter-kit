@@ -1,10 +1,10 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+It is an application that helps GitHub first timers in understanding the work flow, with a practical approach.
 
 ## What it does
 
-FEATURES PLACEHOLDER
+Mona- the bot
 
 ## Getting started
 
